@@ -6,6 +6,8 @@ The face will smile when driving, and cringe/blink when the robot has something 
 The robot will then turn away.
 The display also has the outer set of pixels used as a bar to show the proximity sensed on each side.
 
+See this code on a working robot here: https://www.dropbox.com/sc/hp6hfnznckwwdt4/QexulnQF_C/7
+
 #License
 
 CC-BY-SA-3.0
